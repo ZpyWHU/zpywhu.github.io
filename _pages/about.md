@@ -50,7 +50,7 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 **Peiyuan Zhang**, **Junwei Luo**, **Xue Yang**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
 
 [**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
-- Extending our CVPR 2024 work PointOBB by introducing an SSFF module to improve scale perception and presenting an end-to-end framework. 
+- This work presents an extended conference version of PointOBB, which incorporates a novel Scale-Sensitive Feature Fusion (SSFF) module to improve the model's capability of perceiving object scales, and further proposes an end-to-end optimized framework. 
 </div>
 </div>
 
