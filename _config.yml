@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhang Peiyuan（章培源）"
+  name             : "Zhang Peiyuan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : ""
+  bio              : "Undergrad"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Wuhan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rQbW67AAAAAJ"
   email            : "peiyuanzhangwhu@whu.edu.cn"
