@@ -73,7 +73,9 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 
 - **2024.12**  National College Students Computer System Capability Competition - PolarDB Database Innovation Design Competition  **First Prize (Provincial Level)**  
 
-- **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize (Provincial Level)**  
+- **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize (Provincial Level)**
+
+- **2024.05**  Huazhong Cup Undergraduate Mathematical Modeling Challenge  **Second Prize (Provincial Level)**
 
 - **2024.04**  The 15th National College Students Mathematics Competition  **Third Prize (Provincial Level)**  
 
