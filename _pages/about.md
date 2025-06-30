@@ -24,7 +24,8 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by CVPR 2025
-- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by IJCV 
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by IJCV
+- *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv 
 
 # 📝 Publications 
 
@@ -40,11 +41,17 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2025.06**  China College Students Computer System Design Competition  **Second Prize (Provincial Level)**  
+
+- **2024.12**  National College Students Computer System Capability Competition - PolarDB Database Innovation Design Competition  **First Prize (Provincial Level)**  
+
+- **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize (Provincial Level)**  
+
+- **2024.04**  The 15th National College Students Mathematics Competition  **Third Prize (Provincial Level)**  
+
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Wuhan University, School of Computer Science. 
