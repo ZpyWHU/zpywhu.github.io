@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhang Peiyuan"
   avatar           : "images/icon.jpg"
-  bio              : "Undergrad"
+  bio              : "Wuhan University"
   location         : "Shanghai, China"
-  employer         : "Wuhan University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rQbW67AAAAAJ"
   email            : "peiyuanzhangwhu@whu.edu.cn"
