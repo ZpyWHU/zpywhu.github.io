@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://xueyang.github.io/). 
+I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/). 
 I have published papers at top-tier international CV conferences and journals such as **CVPR** and **IJCV**. I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
 My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection, Vision-Language Models, Remote Sensing/Aerial Image Interpretation.
@@ -40,6 +40,21 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 - Rethinking point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/pointobb-v3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pointobb-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection](https://arxiv.org/abs/2501.13898)
+
+**Peiyuan Zhang**, **Junwei Luo**, **Xue Yang**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
+
+[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
+- This paper extends our CVPR 2024 work PointOBB by introducing an SSFF module to improve scale perception and presenting an end-to-end framework. 
+</div>
+</div>
+
+
+
 
 
 
