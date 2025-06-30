@@ -28,7 +28,6 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 - *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv 
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +40,8 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/pointobb-v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,14 +50,23 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 **Peiyuan Zhang**, **Junwei Luo**, **Xue Yang**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
 
 [**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
-- This paper extends our CVPR 2024 work PointOBB by introducing an SSFF module to improve scale perception and presenting an end-to-end framework. 
+- Extending our CVPR 2024 work PointOBB by introducing an SSFF module to improve scale perception and presenting an end-to-end framework. 
 </div>
 </div>
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://arxiv.org/abs/2504.02826)
 
+**Xiangyu Zhao**, **Peiyuan Zhang**, **Kexian Tang**, Xiaorong Zhu, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan
+
+[**Project**](https://github.com/PhoenixZ810/RISEBench) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
+- We propose RISEBench, the first benchmark for reasoning-informed visual editing, covering four core reasoning tasks—Temporal, Causal, Spatial, and Logical—and introducing a comprehensive evaluation framework with three key dimensions: Instruction Reasoning, Appearance Consistency, and Visual Plausibility.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - **2025.06**  China College Students Computer System Design Competition  **Second Prize (Provincial Level)**  
@@ -67,10 +77,7 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 
 - **2024.04**  The 15th National College Students Mathematics Competition  **Third Prize (Provincial Level)**  
 
-
 # 📖 Educations
 - *2022.09 - 2026.06*, Wuhan University, School of Computer Science. 
-
-# 💬 Invited Talks
 
 # 💻 Internships
