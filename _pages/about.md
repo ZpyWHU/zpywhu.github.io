@@ -70,18 +70,23 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 </div>
 
 # 🎖 Honors and Awards
-- **2025.06**  China College Students Computer System Design Competition  **Second Prize (Provincial Level)**  
+- **2025.06**  China College Students Computer System Design Competition  **Second Prize**  
 
-- **2024.12**  National College Students Computer System Capability Competition - PolarDB Database Innovation Design Competition  **First Prize (Provincial Level)**  
+- **2024.12**  National College Students Computer System Capability Competition - PolarDB Database Innovation Design Competition  **First Prize**  
 
-- **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize (Provincial Level)**
+- **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize**
 
-- **2024.05**  Huazhong Cup Undergraduate Mathematical Modeling Challenge  **Second Prize (Provincial Level)**
+- **2024.05**  Huazhong Cup Undergraduate Mathematical Modeling Challenge  **Second Prize**
 
-- **2024.04**  The 15th National College Students Mathematics Competition  **Third Prize (Provincial Level)**  
+- **2024.04**  The 15th National College Students Mathematics Competition  **Third Prize**
+
+- **2023, 2024**  Second-class Scholarship of School of Computer Science, Wuhan University
+
+- **2023, 2024**  Lei Jun Computer Innovation and Development Fund Recipient
+
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Wuhan University, School of Computer Science. 
+- *2022.09 - now*, Wuhan University, School of Computer Science. 
 
 # 💬 Invited Talks
 
