@@ -24,9 +24,10 @@ I have published papers at top-tier international CV conferences and journals su
 My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection, Vision-Language Models, Remote Sensing/Aerial Image Interpretation.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by CVPR 2025
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is is accepted by CVPR 2025
 - *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by IJCV
-- *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv 
+- *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv
+- *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
@@ -68,6 +69,21 @@ My research interests include Deep Learning and Computer Vision, with a focus on
 - We propose RISEBench, the first benchmark for reasoning-informed visual editing, covering four core reasoning tasks—Temporal, Causal, Spatial, and Logical—and introducing a comprehensive evaluation framework with three key dimensions: Instruction Reasoning, Appearance Consistency, and Visual Plausibility.
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/pwood.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Partial Weakly-Supervised Oriented Object Detection](https://arxiv.org/abs/2507.02751)
+
+Mingxin Liu, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang
+
+[**Project**](https://github.com/VisionXLab/PWOOD) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
+- This paper proposes PWOOD, a novel cost-effective framework for oriented object detection that leverages partially weak annotations and unlabeled data using orientation- and scale-aware learning, achieving performance comparable to fully and semi-supervised methods while significantly reducing annotation costs.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - **2025.06**  China College Students Computer System Design Competition  **Second Prize**  
