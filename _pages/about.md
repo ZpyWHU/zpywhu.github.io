@@ -24,7 +24,7 @@ I have published papers at top-tier international CV conferences and journals su
 My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection, Vision-Language Models, Remote Sensing/Aerial Image Interpretation.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is is accepted by CVPR 2025
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is is accepted by CVPR 2025
 - *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by IJCV
 - *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv
 - *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
