@@ -18,16 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span> 
 
 I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/). 
-I have published papers at top-tier international CV conferences and journals such as **CVPR** and **IJCV** <a href='https://scholar.google.com/citations?user=rQbW67AAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
+I have published papers at top-tier international CV conferences and journals such as **CVPR** and **IJCV**. 
+I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
-
-My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection, Vision-Language Models, Remote Sensing/Aerial Image Interpretation.
+My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection and Vision-Language Models.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is is accepted by CVPR 2025
-- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by IJCV
-- *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv
-- *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is is accepted by CVPR 2025!
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by IJCV!
+- *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv!
+- *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
@@ -88,7 +88,7 @@ Mingxin Liu, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gon
 # 🎖 Honors and Awards
 - **2025.06**  China College Students Computer System Design Competition  **Second Prize**  
 
-- **2024.12**  National College Students Computer System Capability Competition - PolarDB Database Innovation Design Competition  **First Prize**  
+- **2024.12**  National College Students Computer System Capability Competition  **First Prize**  
 
 - **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize**
 
