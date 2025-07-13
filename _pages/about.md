@@ -24,7 +24,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection and Vision-Language Models.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is is accepted by **CVPR**
+- *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**
 - *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by **IJCV**
 - *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv
 - *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
