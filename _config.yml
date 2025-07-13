@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhang Peiyuan（章培源）"
-description              : "Previously worked on object detection; currently exploring vision-language models."
+description              : "Previously worked on oriented object detection; currently exploring vision-language models."
 repository               : "ZpyWHU/zpywhu.github.io"
 google_scholar_stats_use_cdn : true
 
