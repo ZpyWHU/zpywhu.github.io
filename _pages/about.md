@@ -19,9 +19,10 @@ redirect_from:
 
 I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/). 
 I have published papers at top-tier international CV conferences and journals such as **CVPR** and **IJCV**. 
-I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
 My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection and Vision-Language Models.
+
+I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**
@@ -105,5 +106,6 @@ Mingxin Liu, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gon
 - *2022.09 - now*, Wuhan University, School of Computer Science. 
 
 # 💬 Invited Talks
-
+-
 # 💻 Internships
+-
