@@ -87,17 +87,16 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 
 
 # 🎖 Honors and Awards
-- **2025.06**  China College Students Computer System Design Competition  **Second Prize**  
 
-- **2024.12**  National College Students Computer System Capability Competition  **First Prize**  
+- **2025.08**  National College Students Computer System Capability Competition (XiaomiCup) **National First Prize**  
 
-- **2024.09**  National College Students Mathematical Modeling Contest  **Third Prize**
+- **2025.06**  China College Students Computer System Design Competition  **Provincial Second Prize**  
 
-- **2024.05**  Huazhong Cup Undergraduate Mathematical Modeling Challenge  **Second Prize**
+- **2024.12**  National College Students Computer System Capability Competition (PolarDB)  **National Excellence Award**  
 
-- **2024.04**  The 15th National College Students Mathematics Competition  **Third Prize**
+- **2024.09**  National College Students Mathematical Modeling Contest  **Provincial Third Prize**
 
-- **2023, 2024**  Second-class Scholarship of School of Computer Science, Wuhan University
+- **2023, 2024**  Outstanding Student Scholarship of School of Computer Science, Wuhan University
 
 - **2023, 2024**  Lei Jun Computer Innovation and Development Fund Recipient
 
