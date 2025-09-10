@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan]([https://yangxue.site/](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en)). 
 
-My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection and Vision-Language Models.
+My research interests include Deep Learning and Computer Vision, with a focus on Oriented Object Detection and Vision-Language Models.
 
 I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
