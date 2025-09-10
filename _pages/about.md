@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/). 
+I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan]([https://yangxue.site/](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en)). 
 
 My research interests include Deep Learning and Computer Vision, with a focus on Generic/Oriented Object Detection and Vision-Language Models.
 
 I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Point2RBox-v2 is accepted by **CVPR**！
-- *2025.05*: &nbsp;🎉🎉 PointOBB-v3 is accepted by **IJCV**！
-- *2025.05*: &nbsp;🎉🎉 RISEBench is now available on arXiv！
-- *2025.07*: &nbsp;🎉🎉 PWOOD is now available on arXiv！
+- *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！！！
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by **IJCV**！！！
+- *2025.05*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is now available on arXiv
+- *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
