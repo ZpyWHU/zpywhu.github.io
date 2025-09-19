@@ -58,7 +58,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://arxiv.org/abs/2504.02826)
