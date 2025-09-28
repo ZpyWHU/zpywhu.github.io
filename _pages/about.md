@@ -106,4 +106,4 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 # 💬 Invited Talks
 -
 # 💻 Internships
-- *2023.12 - 2025.06*, WHU Remote Sensing Big Data Mining Group (Prof. Yansheng Li)
+- *2023.12 - 2025.06*, WHU SkyEarth
