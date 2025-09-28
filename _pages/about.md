@@ -30,7 +30,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (7/1995)**！
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 <span style="color:red; border:1px solid red; padding:2px 4px; margin-left:4px;">Oral</span> </div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances](https://arxiv.org/pdf/2502.04268)
@@ -58,7 +58,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://arxiv.org/abs/2504.02826)
@@ -103,7 +103,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 # 📖 Educations
 - *2022.09 - now*, Wuhan University, School of Computer Science. 
 
-# 💬 Invited Talks
--
 # 💻 Internships
+-
+# 💬 Invited Talks
 -
