@@ -19,15 +19,15 @@ redirect_from:
 
 I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan]([https://yangxue.site/](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en)). 
 
-My research interests include Deep Learning and Computer Vision, with a focus on Oriented Object Detection and Vision-Language Models.
+My research interests include Deep Learning and Computer Vision, with a focus on Vision-Language Models and Object Detection.
 
 I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！！！
-- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by **IJCV**！！！
+- *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！
+- *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by **IJCV**！
 - *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
-- *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (7/1995)**！！！
+- *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (7/1995)**！
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
@@ -38,7 +38,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 **Yi Yu**, **Botao Ren**, **Peiyuan Zhang**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
 
 [**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
-- This work rethinks point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. 
+- This work rethinks point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. These principles lead to strong performance.
 </div>
 </div>
 
