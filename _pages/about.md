@@ -107,4 +107,3 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 -
 # 💻 Internships
 - *2023.12 - 2025.06*, WHU Remote Sensing Big Data Mining Group (Prof. Yansheng Li)
-- *2024.07 - now*, SJTU VisionXLab
