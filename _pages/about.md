@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan]([https://yangxue.site/](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en)). 
+I am currently an undergraduate student at Wuhan University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en). 
 
 My research interests include Deep Learning and Computer Vision, with a focus on **Vision-Language Models** and **Object Detection**.
 
