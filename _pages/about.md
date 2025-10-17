@@ -27,7 +27,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！
 - *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by **IJCV**！
 - *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
-- *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (7/1995)**！
+- *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (Top 0.35%)**！
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
@@ -89,15 +89,12 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 
 - **2025.08**  National College Students Computer System Capability Competition (XiaomiCup) **National First Prize**  
 
-- **2025.06**  China College Students Computer System Design Competition  **Provincial Second Prize**  
-
 - **2024.12**  National College Students Computer System Capability Competition (PolarDB)  **National Excellence Award**  
 
-- **2024.09**  National College Students Mathematical Modeling Contest  **Provincial Third Prize**
-
-- **2023, 2024**  Outstanding Student Scholarship of School of Computer Science, Wuhan University
+- **2023, 2024, 2025**  Outstanding Student Scholarship of School of Computer Science, Wuhan University
 
 - **2023, 2024**  Lei Jun Computer Innovation and Development Fund Recipient
+- **……**
 
 
 # 📖 Educations
