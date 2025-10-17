@@ -99,7 +99,8 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - *2022.09 - now*, Wuhan University, School of Computer Science. 
 
 # 💬 Invited Talks
-Not officially invited yet, but my GPU has listened to plenty of my research rants.
+Not yet — but my GPU has heard plenty of my research talks. 
 
 # 🧑‍💻 Internships
 - *2023.12 - 2025.06*, WHU SkyEarth
+- *2024.07 - now*, SJTU VisionXLab
