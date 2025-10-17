@@ -30,7 +30,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (Top 0.35%)**！
 
 # 📝 Publications 
-## Vision-Language Model
+## 🔶Vision-Language Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,9 +44,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 </div>
 </div>
 
----
-
-## Object Detection
+## 🔷Object Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
