@@ -30,33 +30,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral (Top 0.35%)**！
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances](https://arxiv.org/pdf/2502.04268)
-
-**Yi Yu**, **Botao Ren**, **Peiyuan Zhang**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
-
-[**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
-- This work rethinks point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. These principles lead to strong performance.
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/pointobb-v3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Pointobb-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection](https://arxiv.org/abs/2501.13898)
-
-**Peiyuan Zhang**, **Junwei Luo**, **Xue Yang**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
-
-[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
-- This work presents an extended conference version of PointOBB, which incorporates a novel Scale-Sensitive Feature Fusion (SSFF) module to improve the model's capability of perceiving object scales, and further proposes an end-to-end optimized framework. 
-</div>
-</div>
-
-
+## Vision-Language Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,7 +44,33 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 </div>
 </div>
 
+---
 
+## Object Detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances](https://arxiv.org/pdf/2502.04268)
+
+**Yi Yu**, **Botao Ren**, **Peiyuan Zhang**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
+
+[**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
+- This work rethinks point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. These principles lead to strong performance.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/pointobb-v3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pointobb-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection](https://arxiv.org/abs/2501.13898)
+
+**Peiyuan Zhang**, **Junwei Luo**, **Xue Yang**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
+
+[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
+- This work presents an extended conference version of PointOBB, which incorporates a novel Scale-Sensitive Feature Fusion (SSFF) module to improve the model's capability of perceiving object scales, and further proposes an end-to-end optimized framework. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/pwood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,7 +85,7 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 - **2025.08**  National College Students Computer System Capability Competition (XiaomiCup) **National First Prize**  
 
@@ -97,10 +97,11 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - **……**
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.09 - now*, Wuhan University, School of Computer Science. 
 
 # 💬 Invited Talks
--
-# 💻 Internships
+Not officially invited yet, but my GPU has listened to plenty of my research rants.
+
+# 🧑‍💻 Internships
 - *2023.12 - 2025.06*, WHU SkyEarth
