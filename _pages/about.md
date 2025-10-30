@@ -21,7 +21,7 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 
 Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
 
-My research interests include Deep Learning and Computer Vision, with a focus on **<mark>(Unified)Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
+My research interests include Deep Learning and Computer Vision, with a focus on **<mark>(Unified) Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
 
 I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
 
