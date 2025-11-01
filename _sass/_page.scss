@@ -410,3 +410,64 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+
+/* ---- Publications Section Compact Style ---- */
+.paper-box {
+  margin: 0.8em 0;          
+  padding: 0.6em 0.8em;
+  border-radius: 6px;
+}
+
+.paper-box-image {
+  margin-bottom: 0.3em;      
+}
+
+.paper-box-text p {
+  margin: 0.3em 0;    
+}
+
+.paper-box-text a {
+  text-decoration: none;
+}
+
+.paper-box-text strong {
+  font-weight: 600;
+}
+
+details {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  padding-left: 0.4em;
+}
+
+details summary {
+  cursor: pointer;
+  font-size: 0.95em;
+  color: #555;
+  margin-bottom: 0.2em;
+}
+
+details[open] summary {
+  color: #000;
+  font-weight: 600;
+}
+
+details > p, details > div {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  line-height: 1.45;
+}
+
+.paper-box img {
+  max-width: 96%;
+  margin: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+h2, h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
