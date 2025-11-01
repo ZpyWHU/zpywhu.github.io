@@ -23,7 +23,7 @@ Previously, I was an undergraduate student at Wuhan University, where I worked w
 
 My research interests include Deep Learning and Computer Vision, with a focus on **<mark>(Unified) Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
 
-I am always open to academic collaboration—feel free to reach out to me at **peiyuanzhangwhu@whu.edu.cn**.
+I am always open to academic collaboration—feel free to reach out to me at 📧 <a href="mailto:peiyuanzhangwhu@whu.edu.cn">peiyuanzhangwhu@whu.edu.cn</a>.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！
@@ -32,57 +32,53 @@ I am always open to academic collaboration—feel free to reach out to me at **p
 - *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral _<mark>(Top 0.35%)</mark>_**！
 
 # 📝 Publications 
-## 🔶Vision-Language Model
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 🔶 Vision-Language Model
 
-[Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://arxiv.org/abs/2504.02826)
+<details>
+  <summary><b>Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing</b> (NeurIPS 2025 Oral)</summary>
 
-**Xiangyu Zhao^**, **Peiyuan Zhang^**, **Kexian Tang^**, **Xiaorong Zhu^**, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan
+**Xiangyu Zhao^**, **Peiyuan Zhang^**, **Kexian Tang^**, **Xiaorong Zhu^**, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan  
+[📄 Paper](https://arxiv.org/abs/2504.02826) ｜ [💻 Project](https://github.com/PhoenixZ810/RISEBench)
 
-[**Project**](https://github.com/PhoenixZ810/RISEBench) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
-- This paper proposes RISEBench, the first benchmark for reasoning-informed visual editing, covering four core reasoning tasks—Temporal, Causal, Spatial, and Logical—and introducing a comprehensive evaluation framework with three key dimensions: Instruction Reasoning, Appearance Consistency, and Visual Plausibility.
-</div>
-</div>
+RISEBench — the first benchmark for reasoning-informed visual editing, evaluating Temporal, Causal, Spatial, and Logical reasoning with metrics on Instruction Reasoning, Consistency, and Plausibility.
+</details>
 
-## 🔷Object Detection
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 🔷 Object Detection
 
-[Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances](https://arxiv.org/pdf/2502.04268)
+<details>
+  <summary><b>Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances</b> (CVPR 2025)</summary>
 
-**Yi Yu^**, **Botao Ren^**, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
+**Yi Yu^**, **Botao Ren^**, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang  
+[📄 Paper](https://arxiv.org/pdf/2502.04268) ｜ [💻 Project](https://github.com/VisionXLab/point2rbox-v2)
 
-[**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
-- This work rethinks point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. These principles lead to strong performance.
-</div>
-</div>
+A new framework leveraging instance layout with three core principles — Gaussian overlap, Voronoi watershed, and consistency losses — for superior point-supervised oriented detection.
+</details>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/pointobb-v3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
 
-[Pointobb-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection](https://arxiv.org/abs/2501.13898)
+<details>
+  <summary><b>PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection</b> (IJCV 2025)</summary>
 
-**Peiyuan Zhang^**, **Junwei Luo^**, **Xue Yang^**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
+**Peiyuan Zhang^**, **Junwei Luo^**, **Xue Yang^**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li  
+[📄 Paper](https://arxiv.org/abs/2501.13898) ｜ [💻 Project](https://github.com/VisionXLab/PointOBB-v3)
 
-[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
-- This work presents an extended conference version of PointOBB, which incorporates a novel Scale-Sensitive Feature Fusion (SSFF) module to improve the model's capability of perceiving object scales, and further proposes an end-to-end optimized framework. 
-</div>
-</div>
+Extends PointOBB with a Scale-Sensitive Feature Fusion (SSFF) module and an end-to-end optimized framework, improving scale perception and overall detection accuracy.
+</details>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/pwood.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
 
-[Partial Weakly-Supervised Oriented Object Detection](https://arxiv.org/abs/2507.02751)
+<details>
+  <summary><b>Partial Weakly-Supervised Oriented Object Detection</b> (arXiv 2025)</summary>
 
-**Mingxin Liu**, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang
+**Mingxin Liu**, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang  
+[📄 Paper](https://arxiv.org/abs/2507.02751) ｜ [💻 Project](https://github.com/VisionXLab/PWOOD)
 
-[**Project**](https://github.com/VisionXLab/PWOOD) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
-- This paper proposes PWOOD, a cost-effective framework for oriented object detection that uses partially weak and unlabeled data through orientation- and scale-aware learning, achieving competitive performance with much lower annotation cost.
-</div>
-</div>
+Proposes PWOOD — a cost-efficient oriented detection framework using partially weak and unlabeled data through orientation- and scale-aware learning.
+</details>
+
 
 
 # 🏅 Honors and Awards
