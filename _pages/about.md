@@ -40,8 +40,7 @@ I am always open to academic collaboration—feel free to reach out to me at �
 
 [Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing](https://arxiv.org/abs/2504.02826)
 
-**Xiangyu Zhao^**, **Peiyuan Zhang^**, **Kexian Tang^**, **Xiaorong Zhu^**, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan
-
+Xiangyu Zhao^, **Peiyuan Zhang^**, Kexian Tang^, Xiaorong Zhu^, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang°, Xue Yang°, Haodong Duan°
 [**Project**](https://github.com/PhoenixZ810/RISEBench) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 <details>
@@ -59,9 +58,8 @@ This paper proposes RISEBench, the first benchmark for reasoning-informed visual
 
 [Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances](https://arxiv.org/pdf/2502.04268)
 
-**Yi Yu^**, **Botao Ren^**, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang
-
-[**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
+Yi Yu^, Botao Ren^, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang°
+🌐[**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 <details>
 <summary><b>Summary</b></summary>
@@ -76,9 +74,8 @@ This work rethinks point-supervised oriented object detection with the layout am
 
 [Pointobb-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection](https://arxiv.org/abs/2501.13898)
 
-**Peiyuan Zhang^**, **Junwei Luo^**, **Xue Yang^**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li
-
-[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
+**Peiyuan Zhang^**, Junwei Luo^, Xue Yang^, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li°
+🌐[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 <details>
 <summary><b>Summary</b></summary>
@@ -93,9 +90,8 @@ This work presents an extended conference version of PointOBB, which incorporate
 
 [Partial Weakly-Supervised Oriented Object Detection](https://arxiv.org/abs/2507.02751)
 
-**Mingxin Liu**, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang
-
-[**Project**](https://github.com/VisionXLab/PWOOD) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
+Mingxin Liu, **Peiyuan Zhang**, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang°
+🌐[**Project**](https://github.com/VisionXLab/PWOOD) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 <details>
 <summary><b>Summary</b></summary>
