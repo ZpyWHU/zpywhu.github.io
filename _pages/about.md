@@ -44,7 +44,7 @@ Xiangyu Zhao^, **Peiyuan Zhang^**, Kexian Tang^, Xiaorong Zhu^, Hao Li, Wenhao C
 
 🌐[**Project**](https://github.com/PhoenixZ810/RISEBench) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
 
-<details>
+<details open>
 <summary><b>💡Summary</b></summary>
 This paper proposes RISEBench, the first benchmark for reasoning-informed visual editing, covering four core reasoning tasks—Temporal, Causal, Spatial, and Logical—and introducing a comprehensive evaluation framework with three key dimensions: Instruction Reasoning, Appearance Consistency, and Visual Plausibility.
 </details>
@@ -64,7 +64,7 @@ Yi Yu^, Botao Ren^, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang,
 🌐[**Project**](https://github.com/VisionXLab/point2rbox-v2) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 
-<details>
+<details open>
 <summary><b>💡Summary</b></summary>
 This work rethinks point-supervised oriented object detection with the layout among instances. At the core are three principles: 1) Gaussian overlap loss. 2) Voronoi watershed loss. 3) Consistency loss. These principles lead to strong performance.
 </details>
@@ -81,7 +81,7 @@ This work rethinks point-supervised oriented object detection with the layout am
 
 🌐[**Project**](https://github.com/VisionXLab/PointOBB-v3) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-<details>
+<details open>
 <summary><b>💡Summary</b></summary>
 This work presents an extended conference version of PointOBB, which incorporates a novel Scale-Sensitive Feature Fusion (SSFF) module to improve the model's capability of perceiving object scales, and further proposes an end-to-end optimized framework. 
 </details>
@@ -98,7 +98,7 @@ Mingxin Liu, **Peiyuan Zhang**, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang
 
 🌐[**Project**](https://github.com/VisionXLab/PWOOD) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
 
-<details>
+<details open>
 <summary><b>💡Summary</b></summary>
 This paper proposes PWOOD, a cost-effective framework for oriented object detection that uses partially weak and unlabeled data through orientation- and scale-aware learning, achieving competitive performance with much lower annotation cost.
 </details>
