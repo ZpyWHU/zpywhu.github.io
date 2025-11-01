@@ -31,53 +31,85 @@ I am always open to academic collaboration—feel free to reach out to me at �
 - *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
 - *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral _<mark>(Top 0.35%)</mark>_**！
 
+
 # 📝 Publications 
 
 ## 🔶 Vision-Language Model
 
-<details>
-  <summary><b>Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing</b> (NeurIPS 2025 Oral)</summary>
+<div class="paper-card">
+  <img src="images/risebench.png" alt="RISEBench">
+  <div class="meta">
+    <span class="tag">🧠 Vision-Language</span>
+    <span class="tag">NeurIPS 2025 Oral</span>
+  </div>
+  <a href="https://arxiv.org/abs/2504.02826" class="title">
+    Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing
+  </a>
+  <p class="authors">Xiangyu Zhao*, Peiyuan Zhang*, Kexian Tang*, Xiaorong Zhu*, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan</p>
+  <p class="desc">
+    Introduces <b>RISEBench</b> — the first benchmark for reasoning-informed visual editing, covering four reasoning types (Temporal, Causal, Spatial, Logical) with a three-dimensional evaluation framework.
+  </p>
+  <p class="links">
+    [📄 Paper](https://arxiv.org/abs/2504.02826) | [💻 Code](https://github.com/PhoenixZ810/RISEBench)
+  </p>
+</div>
 
-**Xiangyu Zhao^**, **Peiyuan Zhang^**, **Kexian Tang^**, **Xiaorong Zhu^**, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang, Xue Yang, Haodong Duan  
-[📄 Paper](https://arxiv.org/abs/2504.02826) ｜ [💻 Project](https://github.com/PhoenixZ810/RISEBench)
-
-RISEBench — the first benchmark for reasoning-informed visual editing, evaluating Temporal, Causal, Spatial, and Logical reasoning with metrics on Instruction Reasoning, Consistency, and Plausibility.
-</details>
-
----
 
 ## 🔷 Object Detection
 
-<details>
-  <summary><b>Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances</b> (CVPR 2025)</summary>
+<div class="paper-card">
+  <img src="images/point2rbox-v2.png" alt="Point2RBox-v2">
+  <div class="meta">
+    <span class="tag">📦 Object Detection</span>
+    <span class="tag">CVPR 2025</span>
+  </div>
+  <a href="https://arxiv.org/pdf/2502.04268" class="title">
+    Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances
+  </a>
+  <p class="authors">Yi Yu*, Botao Ren*, Peiyuan Zhang*, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang</p>
+  <p class="desc">
+    Proposes a rethinking of point-supervised OBB detection via spatial layout priors, introducing <b>Gaussian overlap</b>, <b>Voronoi watershed</b>, and <b>Consistency</b> losses for strong performance.
+  </p>
+  <p class="links">
+    [📄 Paper](https://arxiv.org/pdf/2502.04268) | [💻 Code](https://github.com/VisionXLab/point2rbox-v2)
+  </p>
+</div>
 
-**Yi Yu^**, **Botao Ren^**, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang, Feipeng Da, Junchi Yan, Xue Yang  
-[📄 Paper](https://arxiv.org/pdf/2502.04268) ｜ [💻 Project](https://github.com/VisionXLab/point2rbox-v2)
+<div class="paper-card">
+  <img src="images/pointobb-v3.png" alt="PointOBB-v3">
+  <div class="meta">
+    <span class="tag">📦 Object Detection</span>
+    <span class="tag">IJCV 2025</span>
+  </div>
+  <a href="https://arxiv.org/abs/2501.13898" class="title">
+    PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection
+  </a>
+  <p class="authors">Peiyuan Zhang*, Junwei Luo*, Xue Yang*, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li</p>
+  <p class="desc">
+    Extends <b>PointOBB</b> with a <b>Scale-Sensitive Feature Fusion (SSFF)</b> module and end-to-end optimization to boost scale perception and detection accuracy.
+  </p>
+  <p class="links">
+    [📄 Paper](https://arxiv.org/abs/2501.13898) | [💻 Code](https://github.com/VisionXLab/PointOBB-v3)
+  </p>
+</div>
 
-A new framework leveraging instance layout with three core principles — Gaussian overlap, Voronoi watershed, and consistency losses — for superior point-supervised oriented detection.
-</details>
-
----
-
-<details>
-  <summary><b>PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection</b> (IJCV 2025)</summary>
-
-**Peiyuan Zhang^**, **Junwei Luo^**, **Xue Yang^**, Yi Yu, Qingyun Li, Yue Zhou, Xiaosong Jia, Xudong Lu, Jingdong Chen, Xiang Li, Junchi Yan, Yansheng Li  
-[📄 Paper](https://arxiv.org/abs/2501.13898) ｜ [💻 Project](https://github.com/VisionXLab/PointOBB-v3)
-
-Extends PointOBB with a Scale-Sensitive Feature Fusion (SSFF) module and an end-to-end optimized framework, improving scale perception and overall detection accuracy.
-</details>
-
----
-
-<details>
-  <summary><b>Partial Weakly-Supervised Oriented Object Detection</b> (arXiv 2025)</summary>
-
-**Mingxin Liu**, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang  
-[📄 Paper](https://arxiv.org/abs/2507.02751) ｜ [💻 Project](https://github.com/VisionXLab/PWOOD)
-
-Proposes PWOOD — a cost-efficient oriented detection framework using partially weak and unlabeled data through orientation- and scale-aware learning.
-</details>
+<div class="paper-card">
+  <img src="images/pwood.png" alt="PWOOD">
+  <div class="meta">
+    <span class="tag">📦 Object Detection</span>
+    <span class="tag">arXiv 2025</span>
+  </div>
+  <a href="https://arxiv.org/abs/2507.02751" class="title">
+    Partial Weakly-Supervised Oriented Object Detection
+  </a>
+  <p class="authors">Mingxin Liu, Peiyuan Zhang, Yuan Liu, Wei Zhang, Yue Zhou, Ning Liao, Ziyang Gong, Junwei Luo, Zhirui Wang, Yi Yu, Xue Yang</p>
+  <p class="desc">
+    Presents <b>PWOOD</b>, a cost-efficient OBB framework leveraging partially weak and unlabeled data via orientation- and scale-aware learning to reduce annotation cost.
+  </p>
+  <p class="links">
+    [📄 Paper](https://arxiv.org/abs/2507.02751) | [💻 Code](https://github.com/VisionXLab/PWOOD)
+  </p>
+</div>
 
 
 
