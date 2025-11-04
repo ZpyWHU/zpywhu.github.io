@@ -110,9 +110,9 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 
 # 🏅 Honors and Awards
 
-- **2025.10**  Lei Jun Scholarship of CS, Wuhan University (Top 1%)
+- **2025.10**  Lei Jun Scholarship of CS, Wuhan University <mark>(Top 1%)</mark>
 
-- **2025.09**  First-class Scholarship of CS, Wuhan University (Top 5%)
+- **2025.09**  First-class Scholarship of CS, Wuhan University <mark>(Top 5%)</mark>
 
 - **2025.08**  National College Students Computer System Capability Competition (XiaomiCup) **National First Prize**
   
@@ -125,7 +125,7 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 - *2022.09 - now*, Wuhan University, School of Computer Science. 
 
 # 💬 Invited Talks
-Not yet — but my GPU has heard plenty of my research talks. 
+- Not yet — but my GPU has heard plenty of my research talks. 
 
 # 🧑‍💻 Internships
 - *2023.12 - 2025.06*, WHU SkyEarth
