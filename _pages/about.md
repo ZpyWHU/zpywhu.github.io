@@ -21,14 +21,14 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 
 Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
 
-My research interests include Deep Learning and Computer Vision, with a focus on **<mark>(Unified) Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
+My research interests include Deep Learning and Computer Vision, with a focus on**<mark>Unified Fundation Model</mark>**, **<mark>Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
 
 I am always open to academic collaboration—feel free to reach out to me at 📧 <a href="mailto:peiyuanzhangwhu@whu.edu.cn">peiyuanzhangwhu@whu.edu.cn</a>.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！
 - *2025.05*: &nbsp;🎉🎉 One paper related to OBB (PointOBB-v3) is accepted by **IJCV**！
-- *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv
+- *2025.07*: &nbsp;🎉🎉 One paper related to OBB (PWOOD) is now available on arXiv, Feel free to check it out.
 - *2025.09*: &nbsp;🎉🎉 One paper related to VLM (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral _<mark>(Top 0.35%)</mark>_**！
 
 
@@ -110,13 +110,13 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 
 # 🏅 Honors and Awards
 
+- **2025.11**  "Challenge Cup" National Undergraduate extracurricular academic scientific and technological works competition prospectus  **National First Prize**
+
 - **2025.10**  Lei Jun Scholarship of CS, Wuhan University <mark>(Top 1%)</mark>
 
 - **2025.09**  First-class Scholarship of CS, Wuhan University <mark>(Top 5%)</mark>
 
-- **2025.08**  National College Students Computer System Capability Competition (XiaomiCup) **National First Prize**
-  
-- **2024.12**  National College Students Computer System Capability Competition (PolarDB)  **National Winning Prize**
+- **2025.08**  National College Students Computer System Capability Competition (XiaomiCup)  **National First Prize**
   
 - **……**
 
