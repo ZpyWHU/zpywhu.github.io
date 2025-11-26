@@ -23,7 +23,7 @@ Previously, I was an undergraduate student at Wuhan University, where I worked w
 
 My research interests include Deep Learning and Computer Vision, with a focus on **<mark>Unified Fundation Model</mark>**, **<mark>Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
 
-I am always open to academic collaboration—feel free to reach out to me at 📧 <a href="mailto:peiyuanzhangwhu@whu.edu.cn">peiyuanzhangwhu@whu.edu.cn</a>.
+I am always open to academic collaboration and communication —— feel free to reach out to me at 📧 <a href="mailto:peiyuanzhangwhu@whu.edu.cn">peiyuanzhangwhu@whu.edu.cn</a>.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！
@@ -110,13 +110,13 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 
 # 🏅 Honors and Awards
 
-- **2025.11**  "The Challenge Cup" National Undergraduate extracurricular academic scientific and technological works competition  **National First Prize**
+- **2025.11**  "The Challenge Cup" National Undergraduate extracurricular academic scientific and technological works competition  _<mark>National First Prize</mark>_
 
-- **2025.10**  Lei Jun Scholarship of CS, Wuhan University <mark>(Top 1%)</mark>
+- **2025.10**  Lei Jun Scholarship of CS, Wuhan University  _<mark>(Top 1%)</mark>_
 
-- **2025.09**  First-class Scholarship of CS, Wuhan University <mark>(Top 5%)</mark>
+- **2025.09**  First-class Scholarship of CS, Wuhan University  _<mark>(Top 5%)</mark>_
 
-- **2025.08**  National College Students Computer System Capability Competition (XiaomiCup)  **National First Prize**
+- **2025.08**  National College Students Computer System Capability Competition (XiaomiCup)  _<mark>National First Prize</mark>_
   
 - **……**
 
