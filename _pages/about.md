@@ -129,4 +129,4 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 
 # 🧑‍💻 Internships
 - *2023.12 - 2025.06*, WHU SkyEarth
-- *2024.07 - now*, SJTU VisionXLab
+- *2025.12 - now*, Tencent YouTu Lab
