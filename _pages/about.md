@@ -21,9 +21,8 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 
 Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
 
-My research interests include Deep Learning and Computer Vision, with a focus on **<mark>Unified Fundation Model</mark>**, **<mark>Multimodal Large Language Model</mark>** and **<mark>Object Detection</mark>**.
+My research interests include Deep Learning and Computer Vision, with a focus on **Unified Fundation Model**, **Multimodal Large Language Model** and **Object Detection**.
 
-I am always open to academic collaboration and communication —— feel free to reach out to me at 📧 <a href="mailto:peiyuanzhangwhu@whu.edu.cn">peiyuanzhangwhu@whu.edu.cn</a>.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to OBB (Point2RBox-v2) is accepted by **CVPR**！
