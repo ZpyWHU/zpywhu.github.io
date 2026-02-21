@@ -27,8 +27,8 @@ My research interests include **Fundamental Vision**, **Multimodal Large Languag
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
 - *2025.05*: &nbsp;🎉🎉 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
-- *2025.07*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is now available on arXiv, Feel free to check it out.
 - *2025.09*: &nbsp;🎉🎉 One paper related to unified model (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral _<mark>(Top 0.35%)</mark>_**！
+- *2026.02*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is accepted by **CVPR**!
 
 
 # 📝 Publications 
