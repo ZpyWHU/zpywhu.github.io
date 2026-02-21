@@ -88,7 +88,7 @@ This work presents an extended conference version of PointOBB, which incorporate
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/pwood.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/pwood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Partial Weakly-Supervised Oriented Object Detection](https://arxiv.org/abs/2507.02751)
