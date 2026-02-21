@@ -32,7 +32,7 @@ My research interests include **Fundamental Vision**, **Multimodal Large Languag
 
 
 # 📝 Publications 
-## 🔶Multimodal Large Language Model (2025-)
+## 🔑 Multimodal Large Language Model
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,7 +51,7 @@ This paper proposes RISEBench, the first benchmark for reasoning-informed visual
 </div>
 </div>
 
-## 🔷Object Detection (2023-2025)
+## 🔑 Object Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
