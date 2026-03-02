@@ -27,7 +27,7 @@ My research interests include **Fundamental Vision**, **Multimodal Large Languag
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
 - *2025.05*: &nbsp;🎉🎉 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
-- *2025.09*: &nbsp;🎉🎉 One paper related to unified model (RISEBench) is accepted by **NeurIPS Datasets and Benchmarks Track oral _<mark>(Top 0.35%)</mark>_**！
+- *2025.09*: &nbsp;🎉🎉 One paper related to unified model (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
 - *2026.02*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is accepted by **CVPR**!
 
 
@@ -105,20 +105,17 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 </div>
 </div>
 
-
-
 # 🏅 Honors and Awards
 
-- **2025.11**  "The Challenge Cup" National Undergraduate extracurricular academic scientific and technological works competition  _<mark>National First Prize</mark>_
+- **2025.11**  "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition  _<mark>National First Prize</mark>_
 
 - **2025.10**  Lei Jun Scholarship of CS, Wuhan University  _<mark>(Top 1%)</mark>_
 
 - **2025.09**  First-class Scholarship of CS, Wuhan University  _<mark>(Top 5%)</mark>_
 
-- **2025.08**  National College Students Computer System Capability Competition (XiaomiCup)  _<mark>National First Prize</mark>_
+- **2025.08**  National College Students Computer System Capability Competition (Xiaomi Cup)  _<mark>National First Prize</mark>_
   
 - **……**
-
 
 # 🎓 Educations
 - *2022.09 - now*, Wuhan University, School of Computer Science. 
