@@ -21,7 +21,7 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 
 Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
 
-My research interests include **Fundamental Vision**, **Multimodal Large Language Model** and **AI Evaluation**.
+My research interests include **Fundamental Vision** and **Multimodal Large Language Model**.
 
 
 # 🔥 News
