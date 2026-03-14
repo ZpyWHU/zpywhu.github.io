@@ -55,7 +55,7 @@ This paper proposes RISEBench, the first benchmark for reasoning-informed visual
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/firm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation]([https://arxiv.org/abs/2504.02826](https://arxiv.org/pdf/2603.12247))
+[Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation](https://arxiv.org/pdf/2603.12247)
 
 Xiangyu Zhao^, **Peiyuan Zhang^**, Junming Lin^,  Tianhao Liang^, Yuchen Duan, Changyao Tian, Shengyuan Ding, Yuhang Zang, Junchi Yan, Xue Yang°
 
