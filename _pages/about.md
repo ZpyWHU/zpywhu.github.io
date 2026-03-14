@@ -21,7 +21,7 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 
 Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
 
-My research interests include **Fundamental Vision**, **Multimodal Large Language Models** and **Unified Fundation Models**.
+My research interests include **Fundamental Vision** and **Multimodal Large Language Models / Unified Fundation Models**.
 
 
 # 🔥 News
@@ -29,6 +29,7 @@ My research interests include **Fundamental Vision**, **Multimodal Large Languag
 - *2025.05*: &nbsp;🎉🎉 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
 - *2025.09*: &nbsp;🎉🎉 One paper related to unified model (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
 - *2026.02*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is accepted by **CVPR**!
+- *2026.03*: &nbsp;🎉🎉 One paper related to reward model (FIRM) is now available on [arXiv](https://arxiv.org/pdf/2603.12247).
 
 
 # 📝 Publications 
@@ -50,6 +51,24 @@ This paper proposes RISEBench, the first benchmark for reasoning-informed visual
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/firm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation]([https://arxiv.org/abs/2504.02826](https://arxiv.org/pdf/2603.12247))
+
+Xiangyu Zhao^, **Peiyuan Zhang^**, Junming Lin^,  Tianhao Liang^, Yuchen Duan, Changyao Tian, Shengyuan Ding, Yuhang Zang, Junchi Yan, Xue Yang°
+
+🌐[**Project**](https://firm-reward.github.io/) <strong><span class='show_paper_citations' data='rQbW67AAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+<details open>
+<summary><b>💡Summary</b></summary>
+The FIRM framework builds strong reward models from large-scale high-quality datasets, introduces a human-annotated benchmark to verify better alignment with human judgment, and designs anti-reward-hacking reward strategies that drive major fidelity and performance gains in image editing and generation.
+</details>
+
+</div>
+</div>
+
 
 ## 🔑 Object Detection
 
